@@ -1,0 +1,4 @@
+1. On Terminal 
+   npm create vite
+
+2.
