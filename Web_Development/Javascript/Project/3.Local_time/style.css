@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+nav{
+    margin: 20px;
+}
+a{
+    padding: 20px;
+}
+.heading{
+    margin: 20px;
+    text-align: center;
+}
+.clock{
+    text-align: center;
+}
+span{
+    padding: 10px;
+    text-align: center;
+    background-color: green;
+    border-radius: 15px;
+}

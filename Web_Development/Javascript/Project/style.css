@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: white;
+  background-color: black;
+}
+.navbar{
+    height:100px;
+    padding:10px;
+    background-color: white;
+
+}
+button{
+    width: 20%;
+    height: 30%;
+    align-self: center;
+    background-color: white;
+    color: black;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: transparent;
+}
+.links{
+    height:80px;
+    width: 80%;
+    margin : 20px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+    color:black ;
+    text-align: center;
+}
+a{
+    margin: 20px;
+}
